@@ -30,6 +30,6 @@ This project explores homogeneous and non-homogeneous Poisson processes, thinnin
 
 ## Things I've Worked With
 
-Python, NumPy, SciPy, Pandas, PyTorch, WNTR, NetworkX, R, MATLAB, C++, LaTeX
+Python (NumPy, SciPy, Pandas, PyTorch, WNTR, NetworkX), R, MATLAB, C++, LaTeX
 
 
