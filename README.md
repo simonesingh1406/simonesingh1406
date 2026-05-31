@@ -14,7 +14,7 @@ I'm currently working as a research intern at Eau d'Azur and the Laboratoire J.A
 
 I created this notebook to translate my theoretical knowledge of Black-Scholes model, Monte Carlo approximations and Neural Networks into working option pricing classes. 
 
-It covers Black–Scholes model, Greeks, Monte Carlo methods, Implied Volatility, American Options, Heston modeL and finally an NN based option pricer. Sometimes the derivations might seem very in depth and not necessary for you but I'm sorry I can't help it, I'm a mathematician afterall. 
+It covers Black–Scholes model, Greeks, Monte Carlo methods, Implied Volatility, American Options, Heston model and finally an NN based option pricer. Sometimes the derivations might seem very in depth and not necessary for you but I'm sorry I can't help it, I'm a mathematician afterall. 
 
 ### Brownian Motion Simulator
 
