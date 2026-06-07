@@ -16,9 +16,9 @@ I created this notebook to translate my theoretical knowledge of Black-Scholes m
 
 It covers Black–Scholes model, Greeks, Monte Carlo methods, Implied Volatility, American Options, Heston model and finally an NN based option pricer. Sometimes the derivations might seem very in depth and not necessary for you but I'm sorry I can't help it, I'm a mathematician afterall. 
 
-### Brownian Motion Simulator
+### Brownian Motion and OU Processes
 
-At a point of time in my masters, we were studying about Brownian Motion in 4 out of the 5 courses we were taking that semester. Back then I understood it was much more fundamental than I had initially thought. Later, while preparing for some quant interviews, I found myself revisiting many of the same ideas. This project grew out of an attempt to connect those theoretical results with visual simulations and intuition.
+At a point of time in my masters, we were studying about Brownian Motion in 4 out of the 5 courses we were taking that semester. Back then I understood it was much more fundamental than I had initially thought. Later, while preparing for some quant interviews, I found myself revisiting many of the same ideas. This project grew out of an attempt to connect those theoretical results with visual simulations and intuition. I also use theory realated to Ornstein Uhlenbeck Processes which is very valuable in the financial applications I have tried to explore in this repo.
 
 It includes simulations exploring standard Brownian motion, geometric Brownian motion and a few relevant theoretical results.
 
