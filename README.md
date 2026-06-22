@@ -11,9 +11,9 @@ I'm currently working as a research intern at Eau d'Azur and the Laboratoire J.A
 ## Recent Projects
 ### Volatility Forecasting 
 
-When I started preparing for job applications I realised I need to learn atleast the basics of how the industry thought process work. In this repository I used 20 years of SPY data to see if performance of forecasting models increase with increasing complexity.
+When I started preparing for job applications I realised I need to learn atleast the basics of how the industry thought process work. In this repository I used 20 years of SPY data to see if performance of forecasting models increase with increasing complexity. Through detailed comments I have tried to display my thought process clearly.
 
-It covers Historial Volatility Forecasting, Exponentially Weighted Moving Average, Generalized Autoregressive Conditional Heteroskedasticity, Hidden Markov Models, rolling window, out of sample evaluations, Diebold-Mariano statistical tests, Implied vs Realised Volatility along with VRP and repeated case studied for 2008 Great Financial Crisis and 2020 COVID Crash.
+It covers Historial Volatility Forecasting, Exponentially Weighted Moving Average, Generalized Autoregressive Conditional Heteroskedasticity, Hidden Markov Models, rolling window, out of sample evaluations, Diebold-Mariano statistical tests, Implied vs Realised Volatility along with VRP and repeated case studies for 2008 Great Financial Crisis and 2020 COVID Crash.
 
 
 ### Option Pricing Concepts
